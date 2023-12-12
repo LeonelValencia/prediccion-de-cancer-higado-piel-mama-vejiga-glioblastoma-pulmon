@@ -3,6 +3,9 @@ Proyecto para la materia de Analitica Inteligente de Datos
 
 Deploy: https://prediccion-de-cancer.streamlit.app/
 
+![prediccion de cancer](https://github.com/LeonelValencia/prediccion-de-cancer-higado-piel-mama-vejiga-glioblastoma-pulmon/assets/103957744/22f17622-c35e-49f6-bb04-bc99c68750a7)
+
+
 Es un modelo de aprendizaje automático que se utiliza para predecir la presencia de cáncer en diferentes partes del cuerpo, como el hígado, la piel, la mama, la vejiga, el glioblastoma y los pulmones. 
 El modelo se entrena con datos de pacientes que han sido diagnosticados con cáncer y aquellos que no lo han sido. 
 Luego, se utiliza para predecir si un paciente tiene cáncer o no, basándose en los síntomas y otros factores relevantes. 
