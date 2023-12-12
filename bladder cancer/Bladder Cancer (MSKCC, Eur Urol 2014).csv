@@ -1,0 +1,110 @@
+CNA,Concomitant Carcinoma in situ,Death due to disease,Diagnosis Age,Disease Free (Months),Disease Free Status,LN STATUS,Mutation Count,Neoadjuvant Chemotherapy,Overall Survival (Months),Overall Survival Status,Primary histology,pT STAGE,Race Category,Sample Type,Sex,SMOKING STATUS,SURGICAL TREATMENT,Tissue Sequenced,Variant Histology
+4.063e-5,No,NO,68,3.16,DiseaseFree,Negative,1,No,3.16,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.544,Yes,NO,82,0.68,Recurred/Progressed,Negative,10,No,2.11,LIVING,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.226,No,NO,59,1.17,Recurred/Progressed,Negative,11,Yes,1.74,LIVING,UCB,pT2,White,Primary,MALE,Active,Radical Cystectomy,Radical Cystectomy,No
+0.222,Yes,YES,.,0.42,Recurred/Progressed,Positive,13,No,0.56,DECEASED,UCB,pT4,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.121,Yes,YES,74,0.6,Recurred/Progressed,Negative,1,No,1.37,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.0239,Yes,YES,60,0.27,Recurred/Progressed,Positive,4,Yes,0.44,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,TUR,No
+0.385,No,NO,72,1.76,DiseaseFree,Positive,11,No,1.76,LIVING,UCB,pT4,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.695,Yes,YES,77,0.33,Recurred/Progressed,Negative,8,No,0.46,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.292,Yes,YES,79,0.33,Recurred/Progressed,Positive,10,No,0.93,DECEASED,UCB,pT3,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.309,Yes,NO,80,1.62,DiseaseFree,Negative,9,No,1.62,LIVING,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.0171,No,NO,75,1.99,DiseaseFree,Negative,8,No,1.99,LIVING,UCB,pT3,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.0139,No,NO,76,1.22,DiseaseFree,Negative,2,Yes,1.22,LIVING,UCB,pTa,White,Primary,MALE,Former,Radical Cystectomy,TUR,Yes
+0.0937,No,,59,,,,6,No,,,UCB,Ta,Non-Caucasian,Primary,FEMALE,Never,TUR,TUR,No
+0.104,No,,65,,,,11,No,,,UCB,Ta,White,Primary,FEMALE,Former,TUR,TUR,No
+5.146e-3,No,,70,,,,41,No,,,UCB,Ta,White,Primary,MALE,Former,TUR,TUR,No
+0.412,No,NO,75,1.59,DiseaseFree,Negative,8,No,1.59,LIVING,UCB,pTa,Non-Caucasian,Primary,MALE,Never,Radical Cystectomy,TUR,No
+0.62,No,NO,80,0.15,DiseaseFree,Positive,7,No,0.15,DECEASED,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.138,Yes,YES,72,0.51,Recurred/Progressed,Positive,10,No,1.38,DECEASED,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.34,No,YES,65,0.27,Recurred/Progressed,Positive,7,Yes,0.35,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0,No,NO,71,2.24,DiseaseFree,Negative,1,Yes,2.24,LIVING,UCB,pT2,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.105,No,NO,56,0.06,DiseaseFree,Positive,8,Yes,0.06,DECEASED,UCB,pT4,White,Primary,FEMALE,active,Radical Cystectomy,Radical Cystectomy,Yes
+0.264,No,YES,72,0.3,Recurred/Progressed,Negative,7,No,0.96,DECEASED,UCB,pT3,White,Primary,FEMALE,active,Radical Cystectomy,Radical Cystectomy,Yes
+0.215,No,NO,58,1.52,DiseaseFree,Negative,7,No,1.52,LIVING,UCB,pT1,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.0164,Yes,NO,65,2.78,DiseaseFree,Negative,11,Yes,2.78,LIVING,UCB,pT4,White,Primary,FEMALE,active,Radical Cystectomy,Radical Cystectomy,Yes
+0.161,Yes,YES,82,0.27,Recurred/Progressed,Positive,4,Yes,0.92,DECEASED,UCB,pT4,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.039,No,YES,76,2.23,Recurred/Progressed,Negative,6,No,3.78,DECEASED,UCB,pT1,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.394,Yes,YES,65,0.81,Recurred/Progressed,Positive,3,No,1.89,DECEASED,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.25,No,NO,69,2.52,DiseaseFree,Negative,4,No,2.52,LIVING,UCB,pT1,Non-Caucasian,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.495,Yes,NO,72,3.77,DiseaseFree,Negative,7,Yes,3.77,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.0958,No,NO,56,2.12,DiseaseFree,Negative,3,Yes,2.12,LIVING,UCB,pT1,Non-Caucasian,Primary,MALE,active,Radical Cystectomy,Radical Cystectomy,No
+0.42,Yes,YES,63,0.51,Recurred/Progressed,Positive,11,Yes,1,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.0477,Yes,NO,54,4.55,Recurred/Progressed,Positive,17,No,5.68,LIVING,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.17,No,YES,77,2.94,Recurred/Progressed,Negative,5,No,6.36,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.146,Yes,YES,88,0.21,Recurred/Progressed,Negative,8,No,0.29,DECEASED,UCB,pT3,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.376,Yes,NO,60,4.82,DiseaseFree,Negative,35,Yes,4.82,LIVING,UCB,pTa,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.0201,No,NO,61,5.37,DiseaseFree,Negative,14,No,5.37,LIVING,UCB,pT2,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.0941,No,NO,53,4.62,DiseaseFree,Negative,11,Yes,4.62,LIVING,UCB,pT2,White,Primary,FEMALE,active,Radical Cystectomy,Radical Cystectomy,No
+0.4,Yes,YES,80,0.32,Recurred/Progressed,Negative,6,Yes,0.41,DECEASED,UCB,pT4,Non-Caucasian,Primary,FEMALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.389,Yes,YES,53,0.12,Recurred/Progressed,Positive,11,Yes,0.29,DECEASED,UCB,pT3,Non-Caucasian,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.585,No,YES,55,1.03,Recurred/Progressed,Positive,15,Yes,1.22,DECEASED,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.115,No,NO,54,4.33,DiseaseFree,Positive,*,No,4.33,LIVING,UCB,pT2,White,Primary,MALE,active,Radical Cystectomy,Radical Cystectomy,No
+0.107,Yes,NO,67,0.19,Recurred/Progressed,Positive,9,No,2.61,LIVING,UCB,pT3,White,Primary,FEMALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.0773,No,NO,58,2.55,DiseaseFree,Negative,8,No,2.55,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.244,Yes,YES,75,0.74,Recurred/Progressed,Positive,5,No,1.14,DECEASED,UCB,pT4,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.263,No,NO,72,10.8,DiseaseFree,Negative,33,No,10.8,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.059,No,NO,66,1.55,.,Negative,15,No,1.55,LIVING,UCB,pT4,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.346,No,NO,70,10.2,DiseaseFree,Positive,8,No,10.2,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.0382,No,NO,84,0.48,Recurred/Progressed,Negative,11,No,2.59,LIVING,UCB,pT4,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.0935,No,YES,85,0.58,Recurred/Progressed,Positive,7,No,1.36,DECEASED,UCB,pT3,White,Primary,FEMALE,Never,Radical Cystectomy,.,No
+0.544,Yes,NO,73,2.01,DiseaseFree,Negative,11,No,2.01,LIVING,UCB,pT2,White,Primary,FEMALE,Never,,Radical Cystectomy,No
+0.196,Yes,YES,63,0.35,Recurred/Progressed,Positive,8,No,0.55,DECEASED,UCB,pT3,White,Primary,FEMALE,active,Radical Cystectomy,Radical Cystectomy,Yes
+0.544,Yes,NO,82,7.19,DiseaseFree,Positive,15,No,7.19,LIVING,UCB,pT2,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.228,Yes,NO,73,0.52,DiseaseFree,Negative,23,No,0.52,DECEASED,UCB,pT4,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.102,Yes,NO,63,1.68,DiseaseFree,Negative,19,No,1.68,LIVING,UCB,pT3,White,Primary,MALE,active,Radical Cystectomy,Radical Cystectomy,No
+0.255,Yes,NO,88,0.38,DiseaseFree,Positive,6,No,0.38,DECEASED,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.528,No,NO,55,1.85,DiseaseFree,Negative,9,No,1.85,LIVING,UCB,pT0,White,Primary,MALE,Former,Radical Cystectomy,TUR,No
+0.0974,No,,49,,,,3,No,,,UCB,Ta,White,Primary,MALE,Never,TUR,TUR,No
+0.0566,Yes,,65,,,,8,No,,,UCB,Ta,White,Primary,FEMALE,Never,TUR,TUR,No
+5.174e-5,No,,57,,,,11,No,,,UCB,Ta,,Primary,MALE,Never,TUR,TUR,No
+0.106,No,YES,85,0.81,Recurred/Progressed,Positive,4,No,2.61,DECEASED,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.221,No,,74,,,,4,No,,,UCB,T1,White,Primary,MALE,Former,TUR,TUR,No
+0.342,Yes,NO,53,1.28,DiseaseFree,Negative,6,Yes,1.28,LIVING,UCB,pTis,White,Primary,FEMALE,Former,Radical Cystectomy,TUR,No
+0.28,No,,98,,,,7,No,,,UCB,T1,White,Primary,FEMALE,Former,TUR,TUR,No
+0.624,Yes,YES,66,0.32,Recurred/Progressed,Positive,15,Yes,1.54,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.121,No,NO,74,1.38,DiseaseFree,Negative,8,Yes,1.38,LIVING,UCB,pT1,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+2.940e-3,No,,71,,,,33,No,,,UCB,Ta,White,Primary,MALE,Active,,TUR,No
+0.262,Yes,NO,49,1.09,DiseaseFree,Negative,21,Yes,1.09,LIVING,UCB,pT1,White,Primary,MALE,Active,Radical Cystectomy,R+S48adical Cystectomy,No
+2.482e-6,No,NO,78,1.72,DiseaseFree,Negative,7,No,1.72,LIVING,UCB,pT3,White,Primary,?,Never,Radical Cystectomy,Radical Cystectomy,Yes
+5.089e-3,No,NO,57,1.51,DiseaseFree,Negative,46,No,1.51,LIVING,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.109,Yes,NO,58,0.95,DiseaseFree,Negative,23,Yes,0.95,LIVING,UCB,pT0,White,Primary,MALE,Former,Radical Cystectomy,TUR,No
+0.323,Yes,NO,69,1.14,DiseaseFree,,7,Yes,1.14,LIVING,UCB,pT2,White,Primary,FEMALE,Former,Radical Cystectomy,TUR,No
+0.357,No,NO,77,0.77,Recurred/Progressed,Positive,5,No,1.27,LIVING,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.0544,No,NO,77,1.16,DiseaseFree,Negative,11,Yes,1.16,LIVING,UCB,pT2,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.0738,No,NO,75,1,DiseaseFree,Negative,6,No,1,LIVING,UCB,pT1,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.501,No,NO,68,0.44,DiseaseFree,Negative,10,No,0.44,LIVING,UCB,pT1,,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.122,No,NO,63,0.09,DiseaseFree,Negative,9,Yes,0.09,DECEASED,UCB,pT3,White,Primary,MALE,Active,Radical Cystectomy,Radical Cystectomy,Yes
+0.0785,No,NO,81,0.32,DiseaseFree,Negative,6,No,0.32,LIVING,UCB,pT1,White,Primary,FEMALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.13,No,NO,76,0.46,Recurred/Progressed,Negative,15,Yes,0.72,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.0556,Yes,YES,68,0.21,Recurred/Progressed,Negative,4,Yes,0.42,DECEASED,UCB,pT3,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.148,Yes,NO,45,0.16,Recurred/Progressed,Negative,43,Yes,1.06,LIVING,UCB,pT4,White,Primary,MALE,Active,Radical Cystectomy,Radical Cystectomy,No
+0.271,No,YES,65,0.31,Recurred/Progressed,Negative,4,Yes,0.64,DECEASED,UCB,pT3,,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.177,Yes,NO,73,0.15,DiseaseFree,Positive,14,Yes,0.15,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+4.666e-3,No,NO,62,7.63,DiseaseFree,Negative,9,Yes,7.63,LIVING,UCB,pT2,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.105,Yes,YES,,0.88,Recurred/Progressed,Positive,7,No,1.47,DECEASED,UCB,pT3,White,Primary,MALE,Active,Radical Cystectomy,Radical Cystectomy,Yes
+0.655,Yes,YES,58,0.3,Recurred/Progressed,Positive,18,Yes,0.33,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.258,No,NO,56,0.1,DiseaseFree,Positive,28,No,0.1,?,UCB,pT4,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.232,Yes,NO,62,0.75,Recurred/Progressed,Positive,6,Yes,2.02,LIVING,UCB,pT4,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.175,No,YES,54,0.14,Recurred/Progressed,Positive,11,Yes,0.29,DECEASED,UCB,pT4,White,Primary,MALE,Active,Radical Cystectomy,Radical Cystectomy,No
+0.407,Yes,YES,70,0.72,Recurred/Progressed,Positive,11,No,1.01,DECEASED,UCB,pT3,White,Primary,FEMALE,Active,Radical Cystectomy,Radical Cystectomy,No
+0.45,No,YES,72,0.23,Recurred/Progressed,Positive,17,Yes,0.43,DECEASED,UCB,pT4,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.0891,No,YES,48,0.29,Recurred/Progressed,Positive,2,Yes,0.4,DECEASED,UCB,pT4,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.361,No,YES,66,0.26,Recurred/Progressed,Positive,6,Yes,2.01,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.548,No,YES,86,0.51,Recurred/Progressed,Positive,12,No,0.57,DECEASED,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+2.936e-3,Yes,NO,64,0.65,Recurred/Progressed,Positive,7,Yes,1.16,LIVING,UCB,pT4,White,Primary,MALE,Active,Radical Cystectomy,Radical Cystectomy,Yes
+0.15,Yes,NO,78,7.93,DiseaseFree,,31,No,7.93,LIVING,UCB,pT2,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.062,Yes,NO,60,7.16,DiseaseFree,Negative,5,No,7.16,LIVING,UCB,pT3,White,Primary,MALE,Active,Radical Cystectomy,Radical Cystectomy,Yes
+0.0356,Yes,NO,82,3.72,DiseaseFree,Negative,16,No,3.72,LIVING,UCB,pT3,White,Primary,FEMALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.223,Yes,NO,68,3.97,DiseaseFree,Negative,15,Yes,3.97,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,Yes
+0.377,No,YES,54,1.76,Recurred/Progressed,Negative,4,No,*,DECEASED,UCB,pTa,Non-Caucasian,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.0492,No,NO,56,*,*,Negative,10,No,2.85,LIVING,UCB,pTa,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.239,Yes,NO,46,2.13,DiseaseFree,Positive,9,No,2.13,LIVING,UCB,pT4,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.165,Yes,NO,66,1.37,DiseaseFree,Negative,3,Yes,1.37,LIVING,UCB,pT3,White,Primary,FEMALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.0416,*,,86,,,,1,No,,,UCB,Ta,White,Primary,MALE,Former,TUR,TUR,No
+0.208,Yes,,68,,,,10,No,,,UCB,Ta,White,Primary,MALE,Former,TUR,TUR,No
+0.134,Yes,YES,67,0.36,Recurred/Progressed,Positive,6,Yes,0.36,DECEASED,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,No
+0.328,No,NO,63,0.49,DiseaseFree,Negative,12,Yes,0.49,LIVING,UCB,pT0,White,Primary,MALE,Never,Radical Cystectomy,TUR,No
+0.173,Yes,NO,81,0.29,Recurred/Progressed,Negative,5,No,0.96,LIVING,UCB,pT3,White,Primary,MALE,Former,Radical Cystectomy,Radical Cystectomy,No
+0.551,Yes,NO,82,0.73,Recurred/Progressed,Negative,8,No,0.96,LIVING,UCB,pT3,White,Primary,MALE,Never,Radical Cystectomy,Radical Cystectomy,Yes
+0.051,Yes,NO,79,0.39,DiseaseFree,Negative,3,Yes,0.39,LIVING,UCB,pT2,White,Primary,FEMALE,Never,Radical Cystectomy,TUR,No

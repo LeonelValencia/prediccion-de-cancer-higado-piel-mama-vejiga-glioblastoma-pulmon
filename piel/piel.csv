@@ -1,0 +1,92 @@
+Age At Procurement,Mutation Count,Mutation Status,Person Gender,Primary Tumor Site,Sample Type,Specimen Site,Tissue Source Site,Type
+85,,WT,Male,head/neck,primary,head/neck,Tumor,sun-exposed
+,288,NRAS-Q61R,Female,extremity,metastasis,extremity,Cell line,sun-exposed
+65,155,BRAF-V600K,Male,head/neck,metastasis,trunk,Tumor,sun-exposed
+68,1,WT,Male,head/neck,primary,head/neck,Tumor,sun-exposed
+58,2,WT,Female,head/neck,primary,head/neck,Tumor,sun-exposed
+83,986,WT,Male,head/neck,metastasis,lung,Tumor,sun-exposed
+56,92,WT,Female,choroid,metastasis,head/neck,Tumor,uveal
+80,17,NRAS-Q61R,Female,heel,primary,sole,Tumor,acral
+88,9,KIT-L576P,Male,sole,metastasis,,Cell line,acral
+83,354,BRAF-V600K,Male,trunk,primary,trunk,Tumor,sun-exposed
+73,28,NRAS-Q61R,Female,extremity,primary,extremity,Cell line,sun-exposed
+65,251,BRAF-V600K,Male,trunk,metastasis,trunk,Cell line,sun-exposed
+55,11,WT,Male,choroid,primary,choroid,Cell line,uveal
+54,55,BRAF-V600E,Male,trunk,primary,trunk,Tumor,sun-exposed
+73,585,WT,Female,head/neck,primary,head/neck,Tumor,sun-exposed
+58,53,BRAF-V600E,Male,trunk,metastasis,lymph,Tumor,sun-exposed
+81,32,WT,Male,trunk,metastasis,trunk,Cell line,sun-exposed
+83,329,NRAS-Q61H,Male,extremity,metastasis,extremity,Cell line,sun-exposed
+82,440,BRAF-V600E,Male,trunk,metastasis,trunk,Tumor,sun-exposed
+53,,BRAF-V600E,Male,unknown,metastasis,lymph,Tumor,unknown
+80,660,NRAS-Q61H,Female,unknown,metastasis,trunk,Cell line,unknown
+54,167,NRAS-Q61K,Male,unknown,metastasis,head/neck,Tumor,unknown
+43,1,HRAS-Q61H,Male,subungual,primary,subungual,Tumor,acral
+52,240,NRAS-Q61K,Male,head/neck,metastasis,head/neck,Tumor,sun-exposed
+92,224,NRAS-Q61L,Female,extremity,primary,extremity,Tumor,sun-exposed
+,9,WT,Female,choroid,metastasis,extremity,Tumor,uveal
+39,618,BRAF-V600K,Male,head/neck,metastasis,lymph,Cell line,sun-exposed
+88,168,NRAS-Q61L,Female,extremity,metastasis,lymph,Tumor,sun-exposed
+73,106,"""NRAS-Q61K, KIT-L160V""",Male,trunk,metastasis,trunk,Tumor,sun-exposed
+33,5,WT,Female,choroid,primary,choroid,Cell line,uveal
+54,732,NRAS-G12V,Male,head/neck,metastasis,head/neck,Cell line,sun-exposed
+53,581,WT,Male,head/neck,metastasis,trunk,Cell line,sun-exposed
+57,1,WT,Male,heel,metastasis,extremity,Tumor,acral
+59,26,WT,Female,nasal cavity,metastasis,lymph,,mucosal
+75,14,WT,Male,gingiva,metastasis,trunk,Tumor,mucosal
+64,3,BRAF-V600E,Male,trunk,metastasis,trunk,Tumor,sun-exposed
+25,8,WT,Female,sole,metastasis,sole,Tumor,acral
+69,16,WT,Male,toe,metastasis,trunk,Tumor,acral
+56,128,BRAF-V600E,Male,trunk,metastasis,trunk,Cell line,sun-exposed
+73,409,BRAF-V600E,Male,head/neck,metastasis,extremity,Tumor,sun-exposed
+84,3642,WT,Male,unknown,metastasis,trunk,Tumor,sun-exposed
+37,176,WT,Female,trunk,metastasis,brain,Tumor,sun-exposed
+81,1938,WT,Male,head/neck,metastasis,lymph,Tumor,sun-exposed
+75,399,NRAS-Q61H,Male,unknown,metastasis,trunk,Cell line,unknown
+60,48,NRAS-Q61K,Female,trunk,metastasis,lymph,Cell line,sun-exposed
+56,185,NRAS-Q61H,Female,unknown,metastasis,brain,Tumor,unknown
+62,39,NRAS-Q61R,Male,extremity,metastasis,trunk,Cell line,sun-exposed
+,1,WT,Male,head/neck,metastasis,lung,Tumor,sun-exposed
+94,920,WT,Male,head/neck,metastasis,head/neck,Tumor,sun-exposed
+75,165,BRAF-V600E,Female,extremity,primary,extremity,Tumor,sun-exposed
+58,44,BRAF-V600E,Male,trunk,primary,trunk,Tumor,sun-exposed
+79,8,KIT-V559D,Male,sole,primary,sole,Tumor,acral
+44,28,BRAF-V600E,Male,extremity,metastasis,trunk,Cell line,sun-exposed
+59,106,BRAF-V600E,Female,trunk,primary,trunk,Tumor,sun-exposed
+68,10,WT,Male,sole,primary,sole,Tumor,acral
+53,28,WT,Female,nasal cavity,primary,mucosal,Tumor,mucosal
+59,46,BRAF-V600E,Female,trunk,metastasis,pleural cavity,Cell line,sun-exposed
+64,19,WT,Male,sole,primary,sole,Tumor,acral
+64,13,WT,Male,head/neck,primary,head/neck,Tumor,sun-exposed
+,,WT,Male,trunk,metastasis,lung,Tumor,sun-exposed
+54,176,BRAF-V600E,Male,trunk,primary,trunk,Cell line,
+63,40,BRAF-V600E,Male,trunk,metastasis,extremity,Tumor,sun-exposed
+75,31,WT,Female,unknown,metastasis,intestine,Tumor,unknown
+53,150,BRAF-V600K,Male,extremity,primary,extremity,Tumor,sun-exposed
+86,939,WT,Female,head/neck,primary,head/neck,Tumor,sun-exposed
+55,147,BRAF-V600E,Male,sun-exposed,metastasis,trunk,Cell line,sun-exposed
+67,286,BRAF-V600E,Female,extremity,metastasis,trunk,Cell line,sun-exposed
+61,137,NRAS-Q61R,Male,head/neck,metastasis,head/neck,Tumor,sun-exposed
+53,282,BRAF-V600K,Male,extremity,metastasis,extremity,Cell line,sun-exposed
+52,45,BRAF-V600E,Female,trunk,metastasis,lymph,Cell line,sun-exposed
+81,661,WT,Female,unknown,metastasis,lymph,Tumor,unknown
+71,31,KIT-N822Y,Male,toe,metastasis,lymph,Tumor,acral
+90,807,WT,Male,extremity,primary,extremity,Tumor,sun-exposed
+77,,KIT-K642E,Female,finger,metastasis,finger,Tumor,acral
+58,26,NRAS-G12D,Female,vulva,metastasis,trunk,Cell line,mucosal
+49,27,BRAF-V600E,Male,head/neck,metastasis,,Cell line,sun-exposed
+65,178,BRAF-V600E,Female,trunk,primary,lymph,Tumor,sun-exposed
+53,117,BRAF-V600K,Male,unknown,metastasis,lymph,Tumor,unknown
+70,2,WT,Female,nasal cavity,metastasis,gall bladder,Tumor,mucosal
+37,112,BRAF-V600E,Female,trunk,metastasis,trunk,Cell line,sun-exposed
+57,349,BRAF-V600E,Male,trunk,metastasis,small intestine,Cell line,sun-exposed
+56,214,NRAS-Q61R,Male,trunk,primary,trunk,Tumor,sun-exposed
+78,2,WT,Male,sole,primary,sole,Tumor,acral
+62,149,BRAF-V600K,Female,trunk,primary,trunk,Tumor,sun-exposed
+48,2,WT,Male,choroid,primary,trunk,Tumor,uveal
+86,25,WT,Male,,primary,trunk,Cell line,sun-exposed
+41,124,BRAF-V600E,Male,unknown,metastasis,lymph,Cell line,unknown
+78,1560,WT,Male,head/neck,primary,head/neck,Tumor,sun-exposed
+65,99,BRAF-V600E,Male,unknown,metastasis,trunk,Cell line,unknown
+55,136,BRAF-V600E,Male,unknown,metastasis,trunk,Tumor,unknown
+80,,,Female,extremity,metastasis,extremity,Tumor,sun-exposed
