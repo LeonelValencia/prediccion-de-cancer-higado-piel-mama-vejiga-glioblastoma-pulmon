@@ -1,10 +1,7 @@
 import streamlit as st
 from joblib import load
-# from sklearn.preprocessing import LabelEncoder
-# from sklearn.ensemble import GradientBoostingClassifier
 import pandas as pd
 import seaborn as sns
-from sklearn.metrics import classification_report
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Prediccion", page_icon=":guardsman:", layout="centered", initial_sidebar_state="expanded")
